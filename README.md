@@ -1,4 +1,4 @@
-# Near-Orthogonal Monte Carlo (NOMC)
+# Near-orthogonal Monte Carlo (NOMC)
 
 This is a python implementation of the opt-NOMC algorithm, as well as sliced Wasserstein distances and kernel approximation applications accompany the publication "Demystifying Orthogonal Monte Carlo and Beyond" by Han Lin, Haoxian Chen, Tianyi Zhang, Clement Laroche, and Krzysztof Choromanski.
 
