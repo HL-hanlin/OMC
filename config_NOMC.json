@@ -1,0 +1,8 @@
+{"project_path": "/Users/hanlin/Desktop/NOMC/",
+ "dimension": 10,
+ "samples": [10,20,30,40],
+ "batches": 10,
+ "delta": 0.1,
+ "dt": 1,
+ "Loop": 10000}
+
