@@ -19,6 +19,7 @@ NOMC relies on Python 3.7 as well as some commonly-used libraries as mentioned i
 
 If you think this project is helpful, please feel free to give a ⭐️ and cite our paper:
 
+```bibtex
 @article{lin2020demystifying,
   title={Demystifying orthogonal Monte Carlo and beyond},
   author={Lin, Han and Chen, Haoxian and Choromanski, Krzysztof M and Zhang, Tianyi and Laroche, Clement},
@@ -27,3 +28,4 @@ If you think this project is helpful, please feel free to give a ⭐️ and cite
   pages={8030--8041},
   year={2020}
 }
+```
