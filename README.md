@@ -13,3 +13,17 @@ NOMC relies on Python 3.7 as well as some commonly-used libraries as mentioned i
  `SWD.py` implements sliced Wasserstein distance experiments with multivariate gaussian as an example, and the parameters can be set in `config_SWD.json`.
  
  Besides, we also includes some already calculated and optimized NOMC and QMC samples under the folder `data`, which can be used directly to replicate our experiments using NOMC and QMC algirhms in the paper.
+
+
+# Citation
+
+If you think this project is helpful, please feel free to give a ⭐️ and cite our paper:
+
+@article{lin2020demystifying,
+  title={Demystifying orthogonal Monte Carlo and beyond},
+  author={Lin, Han and Chen, Haoxian and Choromanski, Krzysztof M and Zhang, Tianyi and Laroche, Clement},
+  journal={Advances in Neural Information Processing Systems},
+  volume={33},
+  pages={8030--8041},
+  year={2020}
+}
